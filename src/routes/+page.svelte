@@ -2,4 +2,7 @@
 	import Form from "./components/Form.svelte";
 </script>
 
-<Form />
+
+<!-- <div class="h-screen"> -->
+	<Form />
+<!-- </div> -->
